@@ -1,0 +1,1 @@
+import global_1556283586145 from '../models/global.js';import user_1556283586145 from '../models/user.js'; export default [global_1556283586145,user_1556283586145];
